@@ -1,0 +1,10 @@
+/* Additional styling for a nicer look */
+body {
+    line-height: 1.6;
+}
+.download-btn {
+    transition: 0.3s;
+}
+.download-btn:hover {
+    background:#00d9b3;
+}
